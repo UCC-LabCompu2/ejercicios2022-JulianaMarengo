@@ -16,15 +16,34 @@
         body {
             font-family: Tahoma;
         }
-        a:link, a:visited{
+
+        a:link, a:visited {
             color: #feab5a;
         }
-        a:hover{
+
+        a:hover {
             font-size: 1.4em;
         }
-        a:active{
-            font-weight:bold;
 
+        a:active {
+            font-weight: bold;
+
+        }
+
+        /*.columna1{
+            float: left;
+            width: 50%;
+            padding: 10px;
+
+        }
+        .columna2{
+            float: right;
+            width: 50%;
+        } abajo realizados de otra forma mas simple*/
+        article {
+            column-count: 2;
+            column-gap: 50px;
+            margin: 0px 50px;
         }
     </style>
 </head>
@@ -38,7 +57,7 @@
     <h3 class="tituloNoticia">CordoBici</h3>
     Publicado el 07/03/2018 en Agropecuarias y Ambiente
     <article>
-        <div>
+        <div class="columna1">
             <p>
                 Un intercambio académico inspiró a Joaquín, Nicolás, Guido y Facundo para elegir el tema de su trabajo
                 final.
@@ -74,7 +93,7 @@
                 de la tesis.
             </p>
         </div>
-        <div class="grid-item">
+        <div class="columna2">
             <p>
                 Gracias a una profunda investigación comercial, sumada a una simulación realizada por un programa
                 llamado
