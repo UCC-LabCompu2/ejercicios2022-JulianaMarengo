@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c6a6946-be88-4b49-9c04-a11c013ffb7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicios-CSS/imagenes/fav_cv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios-CSS/miestilo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios-CSS/ej_cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-CSS/ej_cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios-CSS/miestilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-CSS/miestilo.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651513240552</updated>
-      <workItem from="1651513273327" duration="15925000" />
+      <workItem from="1651513273327" duration="16569000" />
     </task>
     <servers />
   </component>
